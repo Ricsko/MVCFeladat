@@ -14,6 +14,5 @@
             $this->view('index', [$menus, $content]);
         }
         
-        .....................
     }
 ?>
