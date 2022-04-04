@@ -1,0 +1,29 @@
+body {
+    background-color: silver;
+    font-size: 18px;
+}
+
+header {}
+
+main {
+    background-color: white;
+    padding: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+    padding: 20px;
+}
+
+.container {
+    box-shadow: 0 0 15px gray;
+    padding: 0;
+}
+
+p {
+    text-align: justify;
+    line-height: 200%;
+}
